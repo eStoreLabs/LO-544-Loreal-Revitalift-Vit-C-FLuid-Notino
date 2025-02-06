@@ -1,0 +1,1058 @@
+{
+    "keys": [
+        "loreal-paris/revitalift-clinical-fluid-do-twarzy-z-witamina-c/"
+    ],
+    "type": 0,
+    "language": "pl-PL",
+    "campaign": "Revitalift Vit C FLuid",
+    "rpc": "LOR08923",
+    "dateOnSaleFrom": null,
+    "owner": "MatusC",
+    "contents": [
+        {
+            "name": "Revitalift Vit C FLuid",
+            "key": "",
+            "isApproved": false,
+            "rich": {
+                "components": [
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "KV.jpg",
+                                "element": "img",
+                                "alt": "Revitalift clinical. Różnica tkwi w nauce",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "35px 35px"
+                        },
+                        "breakpoints": {
+                            "xs": false,
+                            "sm": false,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "KV-mobile.jpg",
+                                "element": "img",
+                                "alt": "Revitalift clinical. Różnica tkwi w nauce",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "15px 10px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": false,
+                            "lg": false
+                        }
+                    },
+                    {
+                        "name": "fiftyFifty",
+                        "variant": "v2",
+                        "data": [
+                            {
+                                "name": "header",
+                                "value": "Twoja poranna rutyna. Codziennie Cały rok",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "30px",
+                                    "fontFamily": "Roboto",
+                                    "textTransform": "uppercase",
+                                    "color": "#000000",
+                                    "fontWeight": "300",
+                                    "marginBottom": "40px",
+                                    "marginRight": "20px"
+                                }
+                            },
+                            {
+                                "name": "content",
+                                "value": "Krok 1 - Rozświetla. Serum 12% czystej witaminy C. Krok 2 - Chroni. Ultralekki UV fluid SPF 50+.",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "20px",
+                                    "fontFamily": "Roboto",
+                                    "fontWeight": "700",
+                                    "color": "#000000",
+                                    "lineHeight": "2",
+                                    "marginRight": "20px"
+                                }
+                            },
+                            {
+                                "name": "asset",
+                                "value": "MOD-02.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "20px 35px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "MOD-03.jpg",
+                                "element": "img",
+                                "alt": "4 razy bardziej rozświetlona skóra",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "35px 35px"
+                        },
+                        "breakpoints": {
+                            "xs": false,
+                            "sm": false,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "MOD-03-mobile.jpg",
+                                "element": "img",
+                                "alt": "4 razy bardziej rozświetlona skóra",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "15px 10px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": false,
+                            "lg": false
+                        }
+                    },
+                    {
+                        "name": "fiftyFifty",
+                        "variant": "v1",
+                        "data": [
+                            {
+                                "name": "header",
+                                "value": "UV Fluid SPF 50+",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "45px",
+                                    "fontFamily": "Roboto",
+                                    "textTransform": "uppercase",
+                                    "color": "#000000",
+                                    "fontWeight": "300",
+                                    "marginBottom": "0",
+                                    "marginLeft": "20px"
+                                }
+                            },
+                            {
+                                "name": "content",
+                                "value": "z witaminą C(5)",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "45px",
+                                    "fontFamily": "Roboto",
+                                    "textTransform": "uppercase",
+                                    "color": "#ff7701",
+                                    "fontWeight": "500",
+                                    "marginTop": "0px",
+                                    "marginBottom": "40px",
+                                    "marginLeft": "20px"
+                                }
+                            },
+                            {
+                                "name": "asset",
+                                "value": "MOD-04.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "20px 35px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "Czy wiesz, że 80% oznak starzenia się skóry",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "30px",
+                                    "fontFamily": "Roboto",
+                                    "textTransform": "uppercase",
+                                    "color": "#000000",
+                                    "fontWeight": "300",
+                                    "textAlign": "center",
+                                    "margin": "0"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "jest spowodowanych przez promieniowanie UV?",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "30px",
+                                    "fontFamily": "Roboto",
+                                    "textTransform": "uppercase",
+                                    "color": "#000000",
+                                    "fontWeight": "300",
+                                    "marginBottom": "0",
+                                    "marginTop": "-20px",
+                                    "textAlign": "center"
+                                }
+                            }
+                        ],
+                        "properties": {
+                            "marginTop": "40px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "Zapobiegaj im każdego dnia z innowacyjnym UV fluidem z SPF50+.",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "20px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#000000",
+                                    "fontWeight": "300",
+                                    "marginTop": "20px",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {},
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "columnsThree",
+                        "variant": "v1",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "Bardzo wysoka ochrona przed\u00a0UVA i UVB",
+                                "element": "h6",
+                                "properties": {
+                                    "fontSize": "20px",
+                                    "fontFamily": "Roboto",
+                                    "fontWeight": "300",
+                                    "color": "#111111",
+                                    "marginBottom": "0",
+                                    "marginTop": "0",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnOneAsset",
+                                "value": "MOD-05-A.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnTwoTitle",
+                                "value": "Działanie zapobiegające powstawaniu przebarwień",
+                                "element": "h6",
+                                "properties": {
+                                    "fontSize": "20px",
+                                    "fontFamily": "Roboto",
+                                    "fontWeight": "300",
+                                    "color": "#111111",
+                                    "marginBottom": "0",
+                                    "marginTop": "0",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnTwoText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnTwoAsset",
+                                "value": "MOD-05-B.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnThreeTitle",
+                                "value": "Wsparcie redukcji drobnych zmarszczek",
+                                "element": "h6",
+                                "properties": {
+                                    "fontSize": "20px",
+                                    "fontFamily": "Roboto",
+                                    "fontWeight": "300",
+                                    "color": "#111111",
+                                    "marginBottom": "0",
+                                    "marginTop": "0",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnThreeText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnThreeAsset",
+                                "value": "MOD-05-C.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "0 35px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "fiftyFifty",
+                        "variant": "v2",
+                        "data": [
+                            {
+                                "name": "header",
+                                "value": "Skuteczna codzienna\u00a0ochrona bez kompromisów",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "30px",
+                                    "fontFamily": "Roboto",
+                                    "textTransform": "uppercase",
+                                    "color": "#000000",
+                                    "fontWeight": "300",
+                                    "marginBottom": "40px",
+                                    "marginRight": "20px"
+                                }
+                            },
+                            {
+                                "name": "content",
+                                "value": "Ultralekka, nieklejąca się konsystencja. Niewidoczne wykończenie. Idealny pod makijaż. Odporny na wodę, pot, piasek i tarcie.",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "20px",
+                                    "fontFamily": "Roboto",
+                                    "fontWeight": "300",
+                                    "color": "#000000",
+                                    "lineHeight": "2",
+                                    "marginRight": "20px"
+                                }
+                            },
+                            {
+                                "name": "asset",
+                                "value": "MOD-06.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "20px 35px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "MOD-07.jpg",
+                                "element": "img",
+                                "alt": "Witamina C, filtry UV",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "35px 35px"
+                        },
+                        "breakpoints": {
+                            "xs": false,
+                            "sm": false,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "MOD-07-mobile.jpg",
+                                "element": "img",
+                                "alt": "Witamina C, filtry UV",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "15px 10px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": false,
+                            "lg": false
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "Bezpieczeństwo i wysoka tolerancja formuły",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "30px",
+                                    "fontFamily": "Roboto",
+                                    "textTransform": "uppercase",
+                                    "color": "#000000",
+                                    "fontWeight": "300",
+                                    "textAlign": "center",
+                                    "marginBottom": "35px"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {},
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "columnsThree",
+                        "variant": "v1",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "Niskie ryzyko migracji w\u00a0okolice\u00a0oczu",
+                                "element": "h6",
+                                "properties": {
+                                    "fontSize": "20px",
+                                    "fontFamily": "Roboto",
+                                    "fontWeight": "300",
+                                    "color": "#111111",
+                                    "marginBottom": "0",
+                                    "marginTop": "20px",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnOneAsset",
+                                "value": "MOD-08-A.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnTwoTitle",
+                                "value": "Niekomedogenna",
+                                "element": "h6",
+                                "properties": {
+                                    "fontSize": "20px",
+                                    "fontFamily": "Roboto",
+                                    "fontWeight": "300",
+                                    "color": "#111111",
+                                    "marginBottom": "0",
+                                    "marginTop": "20px",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnTwoText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnTwoAsset",
+                                "value": "MOD-08-B.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnThreeTitle",
+                                "value": "Testowana na wszystkich typach skóry",
+                                "element": "h6",
+                                "properties": {
+                                    "fontSize": "20px",
+                                    "fontFamily": "Roboto",
+                                    "fontWeight": "300",
+                                    "color": "#111111",
+                                    "marginBottom": "0",
+                                    "marginTop": "20px",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnThreeText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnThreeAsset",
+                                "value": "MOD-08-c.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "0 35px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "sixtyFortyBasicText",
+                        "variant": "v2",
+                        "data": [
+                            {
+                                "name": "header",
+                                "value": "ZAAWANSOWANA TECHNOLOGIA",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "30px",
+                                    "fontFamily": "Roboto",
+                                    "textTransform": "uppercase",
+                                    "color": "#000000",
+                                    "fontWeight": "300",
+                                    "marginBottom": "20px"
+                                }
+                            },
+                            {
+                                "name": "content",
+                                "value": "Technologia filtrów UV opatentowana przez laboratoria L'Oréal, dzięki której na powierzchni skóry tworzy się ultracienka, jednorodna warstwa ochronna, zapewniająca wysoką ochronę przed promieniowaniem UV.",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "20px",
+                                    "fontFamily": "Roboto",
+                                    "fontWeight": "300",
+                                    "color": "#000000"
+                                }
+                            },
+                            {
+                                "name": "asset",
+                                "value": "MOD-09.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "25px 35px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "sixtyFortyBasicText",
+                        "variant": "v1",
+                        "data": [
+                            {
+                                "name": "header",
+                                "value": "WIDOCZNE REZULTATY",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "30px",
+                                    "fontFamily": "Roboto",
+                                    "textTransform": "uppercase",
+                                    "color": "#000000",
+                                    "fontWeight": "300",
+                                    "marginBottom": "20px"
+                                }
+                            },
+                            {
+                                "name": "content",
+                                "value": "93% kobiet przyznaje, że przebarwienia są mniej widoczne(6). 92%\u00a0kobiet potwierdza, że drobne zmarszczki są zredukowane(6)",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "20px",
+                                    "fontFamily": "Roboto",
+                                    "fontWeight": "300",
+                                    "color": "#000000"
+                                }
+                            },
+                            {
+                                "name": "asset",
+                                "value": "MOD-10.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "25px 35px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "Jak stosować?",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "30px",
+                                    "fontFamily": "Roboto",
+                                    "textTransform": "uppercase",
+                                    "color": "#000000",
+                                    "fontWeight": "300",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "marginBottom": "35px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "columnsThree",
+                        "variant": "v1",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "Przed aplikacją wstrząsnąć.",
+                                "element": "h6",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "fontWeight": "300",
+                                    "color": "#111111",
+                                    "marginBottom": "0",
+                                    "marginTop": "10px",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnOneAsset",
+                                "value": "MOD-11-A.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnTwoTitle",
+                                "value": "Codziennie rano nakładaj równomiernie na skórę jako krem nawilżający lub po pielęgnacji skóry oraz przed makijażem. Można aplikować na powieki i okolice oczu.",
+                                "element": "h6",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "fontWeight": "300",
+                                    "color": "#111111",
+                                    "marginBottom": "0",
+                                    "marginTop": "10px",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnTwoText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnTwoAsset",
+                                "value": "MOD-11-B.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnThreeTitle",
+                                "value": "Stosuj każdego dnia przez cały rok, niezależnie od pogody.",
+                                "element": "h6",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "fontWeight": "300",
+                                    "color": "#111111",
+                                    "marginBottom": "0",
+                                    "marginTop": "10px",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnThreeText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnThreeAsset",
+                                "value": "MOD-11-C.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "0 35px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "fiftyFifty",
+                        "variant": "v2",
+                        "data": [
+                            {
+                                "name": "header",
+                                "value": "Rozświetlający Duet",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "30px",
+                                    "fontFamily": "Roboto",
+                                    "textTransform": "uppercase",
+                                    "color": "#000000",
+                                    "fontWeight": "300",
+                                    "marginBottom": "25px",
+                                    "marginRight": "20px"
+                                }
+                            },
+                            {
+                                "name": "content",
+                                "value": "REVITALIFT CLINICAL - serum do twarzy z 12% czystej witaminy C, witaminą E i kwasem salicylowym. Rozświetla skórę, wyrównuje jej koloryt, zmniejsza widoczność porów i\u00a0wspomaga redukcję drobnych linii. REVITALIFT CLINICAL - rozświetlający UV fluid z SPF 50+ i\u00a0witaminą C(5). Chroni skórę przed promieniowaniem UVA i UVB, wspiera redukcję przebarwień, pomaga widocznie zmniejszyć drobne linie i zmarszczki.",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "20px",
+                                    "fontFamily": "Roboto",
+                                    "fontWeight": "300",
+                                    "color": "#000000",
+                                    "lineHeight": "1.5",
+                                    "marginRight": "20px"
+                                }
+                            },
+                            {
+                                "name": "asset",
+                                "value": "MOD-12.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "20px 35px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "(1)Wnioski i wyniki z badania zostały zweryfikowane przez zewnętrzny panel dermatologów sponsorowany przez L'Oréal.",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "12px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#000000",
+                                    "fontWeight": "300",
+                                    "textAlign": "center",
+                                    "margin": "0"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "marginTop": "50px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "(2)Badanie kliniczne, 50 kobiet stosujących rutynę: serum + UV fluid z SPF50+ vs. 30 kobiet stosujących krem nawilżający, po 8 tygodniach.",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "12px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#000000",
+                                    "fontWeight": "300",
+                                    "textAlign": "center",
+                                    "marginTop": "-20px",
+                                    "marginBottom": "0"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {},
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "(3)Efekty po 8 tygodniach stosowania rutyny Revitalift Clinical: serum + UV fluid z SPF 50+.",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "12px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#000000",
+                                    "fontWeight": "300",
+                                    "textAlign": "center",
+                                    "marginTop": "-20px",
+                                    "marginBottom": "0"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {},
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "(4)Badanie kliniczne na 63 osobach, po 8 tygodniach.",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "12px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#000000",
+                                    "fontWeight": "300",
+                                    "textAlign": "center",
+                                    "marginTop": "-20px",
+                                    "marginBottom": "0"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {},
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "(5)Pochodna witaminy C.",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "12px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#000000",
+                                    "fontWeight": "300",
+                                    "textAlign": "center",
+                                    "marginTop": "-20px",
+                                    "marginBottom": "0"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {},
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "(6)Samoocena 105 kobiet po 4 tygodniach.",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "12px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#000000",
+                                    "fontWeight": "300",
+                                    "textAlign": "center",
+                                    "marginTop": "-20px",
+                                    "marginBottom": "0"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {},
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}
